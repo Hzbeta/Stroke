@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stroke.Configure", "Stroke.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base", "Base\Base.csproj", "{0B75B648-79B4-4849-932D-090CF19D8E27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mouse", "Mouse\Mouse.csproj", "{DABCD339-6CAD-461D-8A4D-E17716AB5634}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0B75B648-79B4-4849-932D-090CF19D8E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B75B648-79B4-4849-932D-090CF19D8E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B75B648-79B4-4849-932D-090CF19D8E27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABCD339-6CAD-461D-8A4D-E17716AB5634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABCD339-6CAD-461D-8A4D-E17716AB5634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABCD339-6CAD-461D-8A4D-E17716AB5634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABCD339-6CAD-461D-8A4D-E17716AB5634}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
